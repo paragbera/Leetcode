@@ -40,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0162-find-peak-element](https://github.com/paragbera/Leetcode/tree/master/0162-find-peak-element) |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/paragbera/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 | [0860-lemonade-change](https://github.com/paragbera/Leetcode/tree/master/0860-lemonade-change) |
 | [1254-number-of-closed-islands](https://github.com/paragbera/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [2089-find-target-indices-after-sorting-array](https://github.com/paragbera/Leetcode/tree/master/2089-find-target-indices-after-sorting-array) |
@@ -75,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1254-number-of-closed-islands](https://github.com/paragbera/Leetcode/tree/master/1254-number-of-closed-islands) |
 | [3665-twisted-mirror-path-count](https://github.com/paragbera/Leetcode/tree/master/3665-twisted-mirror-path-count) |
+## Math
+|  |
+| ------- |
+| [0453-minimum-moves-to-equal-array-elements](https://github.com/paragbera/Leetcode/tree/master/0453-minimum-moves-to-equal-array-elements) |
 <!---LeetCode Topics End-->
